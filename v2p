@@ -41,10 +41,10 @@ proxies:
     #username: baidu.com
     #password: passwd
         
-  - name: v2p8102
+  - name: v2p8201
     type: http
     server: 192.168.9.142
-    port: 8102
+    port: 8201
     #tls: true
     #skip-cert-verify: true
     #sni: host_name
