@@ -1,0 +1,60 @@
+# Port of HTTP(S) proxy server on the local end
+port: 7890
+
+# Set to true to allow connections to the local-end server from
+# other LAN IP addresses
+allow-lan: true
+
+# This is only applicable when `allow-lan` is `true`
+# '*': bind all IP addresses
+# 192.168.122.11: bind a single IPv4 address
+# "[aaaa::a8aa:ff:fe09:57d8]": bind a single IPv6 address
+bind-address: '*'
+
+# Clash router working mode
+# rule: rule-based packet routing
+# global: all packets will be forwarded to a single endpoint
+# direct: directly forward the packets to the Internet
+mode: rule
+
+
+# 设置日志输出级别 (默认级别：silent，即不输出任何内容）。
+# 5 个级别：silent / info / warning / error / debug
+#log-level: debug
+
+# clash 的 RESTful API
+external-controller: 127.0.0.1:9090
+#external-ui: ui
+# Secret for the RESTful API (optional)
+# Authenticate by spedifying HTTP header `Authorization: Bearer ${secret}`
+# ALWAYS set a secret if RESTful API is listening on 0.0.0.0
+#secret: '123456'
+    
+proxies:
+  - name: v2p8101
+    type: http
+    server: 192.168.9.142
+    port: 8101
+    #tls: true
+    #skip-cert-verify: true
+    #sni: host_name
+    #username: baidu.com
+    #password: passwd
+        
+  - name: v2p8102
+    type: http
+    server: 192.168.9.142
+    port: 8102
+    #tls: true
+    #skip-cert-verify: true
+    #sni: host_name
+    #username: baidu.com
+    #password: passwd
+proxy-groups:
+  - name: proxy
+    type: select
+    proxies:
+      - v2p8101
+      - v2p8201
+rules:
+  - 'MATCH,proxy'
