@@ -16,12 +16,16 @@ hostname = kandian.wkandian.com
 const $ = new Env("中青看点看看赚");
 const notify = $.isNode() ? require('./sendNotify') : '';
 message = ""
+//替换所有zqkd_param为p
+smbody = $.getdata('zqlookStartbody').replace(/zqkd_param/g,"p")
+$.setdata(smbody, 'zqlookStartbody')
 
 let zqlookStartbody= $.isNode() ? (process.env.zqlookStartbody ? process.env.zqlookStartbody : "") : ($.getdata('zqlookStartbody') ? $.getdata('zqlookStartbody') : "")
 let zqlookStartbodyArr = []
 let zqlookStartbodys = ""
 
-zqlookStartbody=zqlookStartbody.replace(/zqkd_param/g,"p")
+
+//zqlookStartbody=zqlookStartbody.replace(/zqkd_param/g,"p")
 
 let zq_cookie= $.isNode() ? (process.env.zq_cookie ? process.env.zq_cookie : "") : ($.getdata('zq_cookie') ? $.getdata('zq_cookie') : "")
 let zq_cookieArr = []
