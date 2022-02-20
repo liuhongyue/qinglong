@@ -22,11 +22,11 @@ let zqlookStartbody= $.isNode() ? (process.env.zqlookStartbody ? process.env.zql
 let zqlookStartbodyArr = []
 let zqlookStartbodys = ""
 
-//替换所有zqkd_param为p
+//替换所有zqkd_param为p,并保存
 smbody = $.getdata('zqlookStartbody').replace(/zqkd_param/g,"p")
 $.setdata(smbody, 'zqlookStartbody')
 
-
+//截取新获取的cookie，并替换所有zqkd_param为p
 zqlookStartbody=zqlookStartbody.replace(/.*?zqkd_param/,"p")
 zqlookStartbody=zqlookStartbody.replace(/zqkd_param/g,"p")
 
