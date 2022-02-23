@@ -27,7 +27,7 @@ smbody = $.getdata('zqlookStartbody').replace(/zqkd_param/g,"p")
 $.setdata(smbody, 'zqlookStartbody')
 
 //截取新获取的cookie，并替换所有zqkd_param为p
-zqlookStartbody=zqlookStartbody.replace(/.*?zqkd_param/,"p")
+zqlookStartbody=zqlookStartbody.replace(/^.*?zqkd_param/,"p")
 zqlookStartbody=zqlookStartbody.replace(/zqkd_param/g,"p")
 
 let zq_cookie= $.isNode() ? (process.env.zq_cookie ? process.env.zq_cookie : "") : ($.getdata('zq_cookie') ? $.getdata('zq_cookie') : "")
