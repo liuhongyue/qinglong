@@ -24,7 +24,7 @@
 
 # 美国服务器
                                   
-## [美国](https://www.oracle.com/cn/cloud/free/)  
+## [美国](https://plogin.m.jd.com/login/login?appid=828&returnurl=https%3A%2F%2Fbean.m.jd.com%2Fbean%2FsignIndex.action/)  
 ##
 
 ```  
