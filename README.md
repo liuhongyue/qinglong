@@ -1,7 +1,7 @@
 # [茶狐杯](https://cupfox.app)
 
 # 韩国服务器 
-## [韩国面板](http://146.56.148.241:5700)                                      
+## [韩国面板](http://138.2.50.210:5700)                                      
 ## [韩国](https://www.oracle.com/cn/cloud/free/)  
 
 
