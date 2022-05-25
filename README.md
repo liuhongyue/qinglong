@@ -1,8 +1,8 @@
 # [茶狐杯](https://cupfox.app)
 
 # 韩国服务器 
-## [韩国面板](http://138.2.50.210:5700)                                      
-## [韩国](https://www.oracle.com/cn/cloud/free/)  
+## [韩国面板](http://168.138.40.54:5700)                                      
+
 
 
 ####
@@ -13,9 +13,8 @@
 
 
 # 日本服务器
-## [日本面板](http://150.230.56.115:5700)                                        
-## [日   本](http://138.2.50.210:12022/)  
-## [日本arm](http://140.83.60.110:12022/)  
+## [日本面板](http://150.230.63.170:5700)                                        
+
 ##
 
 |  ----  | ----   | ----  |----  |  ----  | ----   | ----  |----  |  ----  | ----   | ----  |----  |  
@@ -27,7 +26,7 @@
                                   
 ## [京东获取CK登录](https://plogin.m.jd.com/login/login?appid=828&returnurl=https%3A%2F%2Fbean.m.jd.com%2Fbean%2FsignIndex.action/)  
 ##
-
+## [甲骨文申请入口](https://www.oracle.com/cn/cloud/free/)  
 ```  
 
 
