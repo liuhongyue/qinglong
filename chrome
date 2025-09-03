@@ -8,6 +8,7 @@ proxies:
   - {name: visa05, server: visa.com.tw, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: wandering.guillermosayztk-59.workers.dev}}}
   - {name: visa06, server: visa.com.tw, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: rough.guillermosayztk-59.workers.dev}}}
   - {name: visa07, server: visa.com.tw, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: spring.neali-sholzhauer966-583kz.workers.dev}}}
+  - {name: visa07, server: visa.com.tw,  port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: purple.neali-sholzhauer966-583kz.workers.dev}}}
 
   - {name: visa09, server: visa.com.tw, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: calm-mud-1019.luz-k-r-ue-gelxnp17.workers.dev}}}
   - {name: visa10, server: visa.com.tw, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: bold-star-b65a.luz-k-r-ue-gelxnp17.workers.dev}}}
@@ -26,6 +27,8 @@ proxies:
   - {name: flare05, server: cloudflare.tv, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: wandering.guillermosayztk-59.workers.dev}}}
   - {name: flare06, server: cloudflare.tv, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: rough.guillermosayztk-59.workers.dev}}}
   - {name: flare07, server: cloudflare.tv, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: spring.neali-sholzhauer966-583kz.workers.dev}}}
+  - {name: flare08, server: cloudflare.tv, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: purple.neali-sholzhauer966-583kz.workers.dev}}}
+
   - {name: flare09, server: cloudflare.tv, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: calm-mud-1019.luz-k-r-ue-gelxnp17.workers.dev}}}
   - {name: flare10, server: cloudflare.tv, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: bold-star-b65a.luz-k-r-ue-gelxnp17.workers.dev}}}
   - {name: flare11, server: cloudflare.tv, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sweet-resonance-fb6c.ha-nseltwedt99.workers.dev}}}
@@ -43,6 +46,8 @@ proxies:
   - {name: time05, server: time.is, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: wandering.guillermosayztk-59.workers.dev}}}
   - {name: time06, server: time.is, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: rough.guillermosayztk-59.workers.dev}}}
   - {name: time07, server: time.is, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: spring.neali-sholzhauer966-583kz.workers.dev}}}
+  - {name: time08, server: time.is, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: purple.neali-sholzhauer966-583kz.workers.dev}}}
+
   - {name: time09, server: time.is, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: calm-mud-1019.luz-k-r-ue-gelxnp17.workers.dev}}}
   - {name: time10, server: time.is, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: bold-star-b65a.luz-k-r-ue-gelxnp17.workers.dev}}}
   - {name: time11, server: time.is, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sweet-resonance-fb6c.ha-nseltwedt99.workers.dev}}}
@@ -60,6 +65,8 @@ proxies:
   - {name: icook05, server: icook.tw, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: wandering.guillermosayztk-59.workers.dev}}}
   - {name: icook06, server: icook.tw, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: rough.guillermosayztk-59.workers.dev}}}
   - {name: icook07, server: icook.tw, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: spring.neali-sholzhauer966-583kz.workers.dev}}}
+  - {name: icook08, server: icook.tw, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: purple.neali-sholzhauer966-583kz.workers.dev}}}
+
   - {name: icook09, server: icook.tw, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: calm-mud-1019.luz-k-r-ue-gelxnp17.workers.dev}}}
   - {name: icook10, server: icook.tw, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: bold-star-b65a.luz-k-r-ue-gelxnp17.workers.dev}}}
   - {name: icook11, server: icook.tw, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sweet-resonance-fb6c.ha-nseltwedt99.workers.dev}}}
