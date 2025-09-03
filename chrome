@@ -1,7 +1,5 @@
 proxies:
-  - {name: visa01, server: www.visa.com.sg, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: spring.neali-sholzhauer966-583kz.workers.dev}}}
-
-  - {name: visa01, server: visa.com.tw, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: oldmoon.a-nhth-anh-bamot13-urebncdm.workers.dev}}}
+  - {name: visa01, server: www.visa.com.sg, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: oldmoon.a-nhth-anh-bamot13-urebncdm.workers.dev}}}
   - {name: visa02, server: visa.com.tw, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: delicate.a-nhth-anh-bamot13-urebncdm.workers.dev}}}
   - {name: visa03, server: visa.com.tw, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: yellow.euge-na-gluckad-y-9-8-8vepup3.workers.dev}}}
   - {name: visa04, server: visa.com.tw, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: white.euge-na-gluckad-y-9-8-8vepup3.workers.dev}}}
