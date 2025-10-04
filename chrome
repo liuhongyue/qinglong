@@ -18,3 +18,5 @@ proxies:
   - {name: sg-visa05, server: www.visa.com.sg, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: wandering.guillermosayztk-59.workers.dev}}}
   - {name: sg-visa06, server: www.visa.com.sg, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: rough.guillermosayztk-59.workers.dev}}}
   - {name: sg-visa07, server: www.visa.com.sg, port: 8080, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: aged-sunset-14d1.neali-sholzhauer966-583kz.workers.dev}}}
+
+  - {name: sg-visa08, server: www.visa.com.sg, port: 8080, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: curly.luz-k-r-ue-gelxnp17.workers.dev}}}
