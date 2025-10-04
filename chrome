@@ -5,12 +5,24 @@ proxies:
   - {name: tw-visa06, server: visa.com.tw, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: rough.guillermosayztk-59.workers.dev}}}
   - {name: tw-visa07, server: visa.com.tw, port: 8080, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: aged-sunset-14d1.neali-sholzhauer966-583kz.workers.dev}}}
 
+  - {name: tw-visa08, server: visa.com.tw, port: 8080, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: curly.luz-k-r-ue-gelxnp17.workers.dev}}}
+  - {name: tw-visa09, server: visa.com.tw, port: 8080, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: lively-king-6a6e.a-nhth-anh-bamot13-urebncdm.workers.dev}}}
+  - {name: tw-visa10, server: visa.com.tw, port: 8080, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: butterfly.ha-nseltwedt99.workers.dev}}}
+  - {name: tw-visa11, server: visa.com.tw, port: 8080, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: waterfall.piontkows-kihef-fley-84-21mxh.workers.dev}}}
+  - {name: tw-visa12, server: visa.com.tw, port: 8080, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: morning.li-n-h-oic-audauro17i.workers.dev}}}
+
 
   - {name: pages03, server: pages.dev, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: yellow.euge-na-gluckad-y-9-8-8vepup3.workers.dev}}}
   - {name: pages04, server: pages.dev, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: white.euge-na-gluckad-y-9-8-8vepup3.workers.dev}}}
   - {name: pages05, server: pages.dev, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: wandering.guillermosayztk-59.workers.dev}}}
   - {name: pages06, server: pages.dev, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: rough.guillermosayztk-59.workers.dev}}}
   - {name: pages07, server: pages.dev, port: 8080, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: aged-sunset-14d1.neali-sholzhauer966-583kz.workers.dev}}}
+
+  - {name: pages08, server: pages.dev, port: 8080, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: curly.luz-k-r-ue-gelxnp17.workers.dev}}}
+  - {name: pages09, server: pages.dev, port: 8080, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: lively-king-6a6e.a-nhth-anh-bamot13-urebncdm.workers.dev}}}
+  - {name: pages10, server: pages.dev, port: 8080, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: butterfly.ha-nseltwedt99.workers.dev}}}
+  - {name: pages11, server: pages.dev, port: 8080, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: waterfall.piontkows-kihef-fley-84-21mxh.workers.dev}}}
+  - {name: pages12, server: pages.dev, port: 8080, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: morning.li-n-h-oic-audauro17i.workers.dev}}}
 
 
   - {name: sg-visa03, server: www.visa.com.sg, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: yellow.euge-na-gluckad-y-9-8-8vepup3.workers.dev}}}
