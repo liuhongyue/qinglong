@@ -1,5 +1,4 @@
 proxies:
-  - {name: hcaptcha00, server: www.hcaptcha.com, port: 443, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: true, servername: joly.seoul.netlib.re, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: joly.seoul.netlib.re}}}
   - {name: hcaptcha01, server: www.hcaptcha.com, port: 8080, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: morning.li-n-h-oic-audauro17i.workers.dev}}}
   - {name: hcaptcha02, server: www.hcaptcha.com, port: 8080, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: waterfall.piontkows-kihef-fley-84-21mxh.workers.dev}}}
   - {name: hcaptcha03, server: www.hcaptcha.com, port: 8080, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: frosty.guillermosayztk-59.workers.dev}}}
@@ -11,7 +10,6 @@ proxies:
   - {name: hcaptcha09, server: www.hcaptcha.com, port: 443, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: true, servername: jolly.seoul.netlib.re, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: jolly.seoul.netlib.re}}}
   - {name: hcaptcha10, server: www.hcaptcha.com, port: 443, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: true, tfo: false, skip-cert-verify: false, servername: river.ampc8.netlib.re, client-fingerprint: chrome, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: river.ampc8.netlib.re}}}
 
-  - {name: pages00, server: pages.dev, port: 443, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: true, servername: joly.seoul.netlib.re, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: joly.seoul.netlib.re}}}
   - {name: pages01, server: pages.dev, port: 8080, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: morning.li-n-h-oic-audauro17i.workers.dev}}}
   - {name: pages02, server: pages.dev, port: 8080, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: waterfall.piontkows-kihef-fley-84-21mxh.workers.dev}}}
   - {name: pages03, server: pages.dev, port: 8080, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: frosty.guillermosayztk-59.workers.dev}}}
@@ -23,8 +21,6 @@ proxies:
   - {name: pages09, server: pages.dev, port: 443, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: true, servername: jolly.seoul.netlib.re, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: jolly.seoul.netlib.re}}}
   - {name: pages10, server: pages.dev, port: 443, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: true, tfo: false, skip-cert-verify: false, servername: river.ampc8.netlib.re, client-fingerprint: chrome, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: river.ampc8.netlib.re}}}
 
-
-  - {name: visa00, server: www.visa.com.sg, port: 443, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: true, servername: joly.seoul.netlib.re, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: joly.seoul.netlib.re}}}
   - {name: visa01, server: www.visa.com.sg, port: 8080, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: morning.li-n-h-oic-audauro17i.workers.dev}}}
   - {name: visa02, server: www.visa.com.sg, port: 8080, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: waterfall.piontkows-kihef-fley-84-21mxh.workers.dev}}}
   - {name: visa03, server: www.visa.com.sg, port: 8080, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: frosty.guillermosayztk-59.workers.dev}}}
