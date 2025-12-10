@@ -11,8 +11,8 @@ proxies:
   - {name: saas07, server: saas.sin.fan, port: 443, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: true, tfo: false, skip-cert-verify: false, servername: livelye.netlib.re, client-fingerprint: chrome, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: livelye.netlib.re}}}
   - {name: saas08, server: saas.sin.fan, port: 443, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: true, tfo: false, skip-cert-verify: false, servername: butterflye.netlib.re, client-fingerprint: chrome, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: butterflye.netlib.re}}}
 
-  - {name: cf09, server: cf.yoyo.edu.kg, port: 443, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: true, tfo: false, skip-cert-verify: false, servername: seoul.netlib.re, client-fingerprint: chrome, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: seoul.netlib.re}}}
-  - {name: cf00, server: cf.yoyo.edu.kg, port: 443, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: true, tfo: false, skip-cert-verify: false, servername: river.ampc8.netlib.re, client-fingerprint: chrome, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: river.ampc8.netlib.re}}}
+  - {name: works-cf09, server: cf.yoyo.edu.kg, port: 443, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: true, tfo: false, skip-cert-verify: false, servername: seoul.netlib.re, client-fingerprint: chrome, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: seoul.netlib.re}}}
+  - {name: works-cf00, server: cf.yoyo.edu.kg, port: 443, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: true, tfo: false, skip-cert-verify: false, servername: river.ampc8.netlib.re, client-fingerprint: chrome, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: river.ampc8.netlib.re}}}
 
 
   - {name: hcaptcha13, server: www.hcaptcha.com, port: 8880, client-fingerprint: chrome, type: vless, uuid: 216f8742-771e-3e13-953a-f9773354ca60, tls: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: yellow.euge-na-gluckad-y-9-8-8vepup3.workers.dev}}}
